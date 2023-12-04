@@ -1,0 +1,8 @@
+Public class Input{
+    public string w;
+    public string a;
+    public string s;
+    public string d;
+
+    
+}

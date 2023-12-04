@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yo6NlV60Skx2+Dsb+FvgHedsi5DjOrsfBHu3aLFxSVkgmk/UqI3eu+81pVK2wVPmFhz2y0/91nf+B1OfMXqsSA==",
+  "dgSpecHash": "2laeQs/ULx2ij1mhC7hZTMXUdsmjCjKIC463S6KF+hVaSG7j4XNj/6yl4QJaW9foHm7Ku94Bxo6Hq5t/cKh9PA==",
   "success": true,
   "projectFilePath": "C:\\Users\\felicia.buren\\github-classroom\\TE21C-spel-prog-2\\vinterProjekt\\vinterProjekt.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\felicia.buren\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\felicia.buren\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
